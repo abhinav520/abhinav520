@@ -14,13 +14,15 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me <a href='abhinavsingh0520@gmail.com'>gmai</a> and <a href='https://www.linkedin.com/in/abhinav-singh-29933a1ba/'>linkedin</a>
+- 📫 How to reach me <a href='abhinavsingh0520@gmail.com'>gmail</a> and <a href='https://www.linkedin.com/in/abhinav-singh-29933a1ba/'>linkedin</a>
 
 - ⚡ Fun fact **I love sports.**
 
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
+    <a href="https://docs.microsoft.com/en-us/cpp/cpp/?view=msvc-160/" target="_blank"> <img src="https://en.wikipedia.org/wiki/C%2B%2B#/media/File:ISO_C++_Logo.svg"/> </a>
+    <a href="https://docs.microsoft.com/en-us/cpp/c-language/?view=msvc-160/" target="_blank"> <img src="https://simple.wikipedia.org/wiki/C_(programming_language)#/media/File:C_Programming_Language.svg"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
@@ -31,6 +33,10 @@
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+    <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://www.gstatic.com/devrel-devsite/prod/v1107947142dadf6449a2907ce0a39fab2989512ca62a8e88f40e576d91855aef/tensorflow/images/lockup.svg" alt="express" width="40" height="40"/> </a>
+    <a href="https://keras.io/" target="_blank"> <img src="https://en.wikipedia.org/wiki/Keras#/media/File:Keras_logo.svg" alt="express" width="40" height="40"/> </a>
+    <a href="https://opencv.org/" target="_blank"> <img src="https://opencv.org/wp-content/uploads/2020/07/cropped-OpenCV_logo_white_600x.png" alt="express" width="40" height="40"/> </a>
+
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
