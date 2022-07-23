@@ -8,9 +8,9 @@
 
 - 💡  I love to code and develop.
 
-- 🔭 I’m currently working on **Learning Management System project**
+- 🔭 I’m specialist at codeforces and 4 start at codechef**
 
-- 🌱 I’m currently learning **React and Nodejs.** 
+- 🌱 I’m currently preparing for interviews 
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
